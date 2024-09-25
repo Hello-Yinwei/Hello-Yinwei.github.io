@@ -1175,8 +1175,8 @@ progress {
   }
 
   .col-md-6 {
-    flex: 0 0 auto;
-    width: 50%;
+    margin: 0 auto;
+    width: 70%;
   }
 
   .col-md-7 {
@@ -7304,7 +7304,8 @@ textarea.form-control-lg {
 }
 
 .mt-4 {
-  margin-top: 1.5rem !important;
+  margin: 3rem auto;
+   width: 80%; 
 }
 
 .mt-5 {
