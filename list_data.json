@@ -1,22 +1,25 @@
 {
-	"movies": [
+	"Favorite Restaurants @ Berkeley": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Restaurant Name": "Imm Thai Street Food",
+			"Cuisine": "Thai",
+			"Price": "$10-20",
+			"Spicy": "🌶️🌶️🌶️",
+			"Address": "2068 University Ave, Berkeley, CA 94704"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Restaurant Name": "Easterly Berkeley",
+			"Cuisine": "Chinese",
+			"Price": "$20-30",
+			"Spicy": "🌶️🌶️🌶️🌶️🌶️",
+			"Address": "2323 Shattuck Ave, Berkeley, CA 94704"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Restaurant Name": "Berkeley Social Club",
+			"Cuisine": "Korean + American",
+			"Price": "$20-30",
+			"Spicy": "🌶️",
+			"Address": "2050 University Ave, Berkeley, CA 94704"
 		}
 	]
 }
